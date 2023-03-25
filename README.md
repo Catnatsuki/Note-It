@@ -1,6 +1,6 @@
 # NoteIt - Simple Note Taking App 📝
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/NoteIt)](https://github.com/Catnatsuki/NoteIt/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Catnatsuki/NoteIt)](https://github.com/Catnatsuki/NoteIt/blob/master/LICENSE)
 
 NoteIt is a simple note-taking app written in Kotlin using the MVVM 🏗️ architectural pattern, CRUD 📝 operations, and ROOM 🏠 database. The app features a full material dynamic theming 🌈, support for adding/deleting notes 📝, and full markdown support for editing options like bold/italic/strikethrough text and the ability to create bulleted/numbered lists 📊. The app also includes nice animations 🎉.
 
