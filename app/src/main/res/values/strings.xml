@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteIt</string>
+    <string name="add_not_title">Title</string>
+    <string name="note_hint">Your note goes here.. ;-)</string>
+</resources>
