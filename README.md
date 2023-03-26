@@ -6,7 +6,7 @@ NoteIt is a simple note-taking app written in Kotlin using the MVVM 🏗️ arch
 
 ## Screenshots 📷📷
 ![App Screenshot](screenshots/final_homescreen.png)
-![App Screenshot](screenshots/light_addnote.png)
+<img src="screenshots/light_addnote.png" alt="Light Add Note Screenshot" width="50%">
 
 ## Features
 
