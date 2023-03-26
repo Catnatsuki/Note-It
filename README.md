@@ -4,10 +4,8 @@
 
 NoteIt is a simple note-taking app written in Kotlin using the MVVM 🏗️ architectural pattern, CRUD 📝 operations, and ROOM 🏠 database. The app features a full material dynamic theming 🌈, support for adding/deleting notes 📝, and full markdown support for editing options like bold/italic/strikethrough text and the ability to create bulleted/numbered lists 📊. The app also includes nice animations 🎉.
 
-## Screenshots
-
-<!-- Will be uploaded soon™️ -->
-📷 📷 📷
+## Screenshots 📷📷
+![App Screenshot](screenshots/final_homescreen.png)
 
 ## Features
 
